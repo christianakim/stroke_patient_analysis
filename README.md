@@ -6,3 +6,7 @@ Project Deliverables:
 2. A Jupyter Notebook that tells a compelling story about my data.
 3. A PowerPoint deck presenting my results.
 4. A live presentation where I share my findings and recommendations.
+
+Demonstrated Tools & Techniques: 
+- Python - Pandas, NumPy, SciPy, Seaborn, Matplotlib 
+- PowerPoint
