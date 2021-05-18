@@ -1,4 +1,4 @@
-# stroke_patient_analysis
+# Stroke Patient Analysis
 This is my third and final capstone for Thinkful. This project was the most open-ended, as I was able to choose my own dataset of interest to explore and analyze using Python.
 
 Project Deliverables:
